@@ -1,0 +1,4 @@
+kjkfdkf
+<? echo'1';?>
+<?php echo'2';?>
+<?='fdfdfdf'?>
